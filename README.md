@@ -12,5 +12,6 @@ Data Validation: Identifying "orphaned" assets and null sensor pings within the 
 
 Relational Logic: Leveraging complex joins and indexing to extract actionable insights from raw operational logs.
 
-Tools Used
+Tools Used:
 SQL (PostgreSQL)
+Relational Database Management Systems (RDBMS)
